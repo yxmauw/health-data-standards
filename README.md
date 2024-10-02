@@ -9,3 +9,5 @@ MedevIS also aims to simplify the coding of medical devices. It includes both th
 2. [Library of Ontologies](https://bioportal.bioontology.org/ontologies)
    
 3. [Beers Criteria](https://sbgg.org.br/wp-content/uploads/2023/05/1-American-Geriatrics-Society-2023.pdf) for potentially inappropriate medication use in older adults
+
+4. [RCPA pathology terminology standards](https://www.rcpa.edu.au/Library/Practising-Pathology/PTIS)
