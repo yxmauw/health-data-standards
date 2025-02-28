@@ -15,3 +15,5 @@ MedevIS also aims to simplify the coding of medical devices. It includes both th
 5. [National Clinical Terminology Service (NCTS)](https://developer.digitalhealth.gov.au/resources/services/national-clinical-terminology-service-ncts)
 
 6. [Biodesign Framework](https://insightplus.mja.com.au/2024/39/biodesign-a-clinical-training-framework-for-medical-technology-innovation/)
+
+7. [Australian Medicines Terminology (AMT)](https://www.healthterminologies.gov.au/access-clinical-terminology/access-snomed-ct-au/)
