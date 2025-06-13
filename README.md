@@ -17,3 +17,8 @@ MedevIS also aims to simplify the coding of medical devices. It includes both th
 6. [Biodesign Framework](https://insightplus.mja.com.au/2024/39/biodesign-a-clinical-training-framework-for-medical-technology-innovation/)
 
 7. [Australian Medicines Terminology (AMT)](https://www.healthterminologies.gov.au/access-clinical-terminology/access-snomed-ct-au/)
+
+# AI Safety in Healthcare
+
+### Benchmark tools
+1. [HealthBench by OpenAT](https://openai.com/index/healthbench/)
