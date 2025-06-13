@@ -21,4 +21,4 @@ MedevIS also aims to simplify the coding of medical devices. It includes both th
 # AI Safety in Healthcare
 
 ### Benchmark tools
-1. [HealthBench by OpenAT](https://openai.com/index/healthbench/)
+1. [HealthBench by OpenAI](https://openai.com/index/healthbench/)
