@@ -18,6 +18,8 @@ MedevIS also aims to simplify the coding of medical devices. It includes both th
 
 7. [Australian Medicines Terminology (AMT)](https://www.healthterminologies.gov.au/access-clinical-terminology/access-snomed-ct-au/)
 
+8. [Australia Healthcare Identifiers Service](https://www.health.gov.au/topics/health-technologies-and-digital-health/about/healthcare-identifiers)
+
 # AI Safety in Healthcare
 
 ### Benchmark tools
